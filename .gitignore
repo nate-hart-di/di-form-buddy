@@ -1,8 +1,7 @@
 node_modules/
 .DS_Store
-_bmad-output/
 .venv/
 venv/
 *.log
-.gemini/
-.agent/
+# .gemini/
+# .agent/
