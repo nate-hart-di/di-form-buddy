@@ -5,3 +5,4 @@ venv/
 *.log
 # .gemini/
 # .agent/
+_bmad-output/archived
