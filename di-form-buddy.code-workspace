@@ -1,0 +1,14 @@
+{
+  "folders": [
+    {
+      "path": ".",
+    },
+    {
+      "path": "../../../di-websites-platform",
+    },
+    {
+      "path": "../../../archon",
+    },
+  ],
+  "settings": {},
+}

@@ -6,3 +6,4 @@ venv/
 # .gemini/
 # .agent/
 _bmad-output/archived
+.env

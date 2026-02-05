@@ -1,0 +1,18 @@
+{
+  "campaign": "health_check",
+  "date": "2026-02-05T08:20:23Z",
+  "sample_size": "1",
+  "pods_checked": 1,
+  "sites": {
+    "total": 1,
+    "passed": 0,
+    "partial": 0,
+    "failed": 1,
+    "pass_rate": 0
+  },
+  "forms": {
+    "total": 0,
+    "passed": 0,
+    "pass_rate": 0
+  }
+}

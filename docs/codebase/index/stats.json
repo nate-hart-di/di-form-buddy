@@ -1,0 +1,24 @@
+{
+  "total_records": 3260,
+  "types": {
+    "class": 222,
+    "function": 1996,
+    "action": 493,
+    "filter": 467,
+    "shortcode": 66,
+    "cpt": 13,
+    "interface": 3
+  },
+  "areas": {
+    "bootstrap": 19,
+    "mu-plugin": 130,
+    "theme": 2427,
+    "migration": 236,
+    "app": 451,
+    "script": 2
+  },
+  "scopes": {
+    "core": 3260
+  },
+  "path_prefixes": 64
+}

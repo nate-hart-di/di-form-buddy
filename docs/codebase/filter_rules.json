@@ -1,0 +1,54 @@
+{
+  "exclude_paths": [
+    "node_modules",
+    "vendor",
+    "dist",
+    "build",
+    "dealer-themes",
+    "content/dealers"
+  ],
+  "exclude_extensions": [
+    ".min.css",
+    ".min.js",
+    ".map",
+    ".lock",
+    ".png",
+    ".jpg",
+    ".jpeg",
+    ".gif",
+    ".woff",
+    ".woff2",
+    ".ttf",
+    ".eot"
+  ],
+  "min_code_lines": 5,
+  "importance_paths": [
+    "app/dealer-inspire/wp-content/plugins",
+    "app/dealer-inspire/wp-content/themes"
+  ],
+  "priority_files": [
+    "functions.php",
+    "wp-config.php",
+    "index.php",
+    "custom_posts.php",
+    "custom-shortcodes.php",
+    "composer.json",
+    "package.json",
+    "gulpfile.js"
+  ],
+  "tier_1_patterns": [
+    "di-",
+    "dealerinspire-",
+    "maven-",
+    "inventory-"
+  ],
+  "tier_3_patterns": [
+    "vessel",
+    "elementor",
+    "visual-composer",
+    "beaver-builder",
+    "ultimate_vc",
+    "js_composer"
+  ],
+  "min_score_threshold": 10.0
+}
